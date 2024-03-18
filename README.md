@@ -14,13 +14,10 @@ This repository houses a Graph Analysis Library, a versatile and efficient C++ i
 
 - <b>Visual Studio Code</b>
 
-<h2>Program walk-through:</h2>
 
-<p align="center">
-Compress:
+
+
  <br/>
-
-./compress <original_file> <compressed_file>
 
 
 <br />
@@ -28,8 +25,6 @@ Compress:
 <p align="center">
 Decompress:
  <br/>
-
-./uncompress <compressed_file> <uncompressed_file>
 
 <br />
 <br />
