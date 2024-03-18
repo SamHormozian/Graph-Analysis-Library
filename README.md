@@ -23,7 +23,7 @@ This repository houses a Graph Analysis Library, a versatile and efficient C++ i
 <br />
 <br />
 <p align="center">
-Decompress:
+
  <br/>
 
 <br />
