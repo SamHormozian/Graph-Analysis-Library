@@ -13,7 +13,7 @@ This repository houses a Graph Analysis Library, a versatile and efficient C++ i
 <h2>Environments Used </h2>
 
 - <b>Visual Studio Code</b>
-- <b>EdStem Lessons</b>
+
 
 
 
